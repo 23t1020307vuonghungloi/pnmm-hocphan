@@ -23,4 +23,4 @@ Bất kỳ ai sử dụng mã nguồn này chỉ cần giữ lại **thông báo
 
 ---
 *Ngày thực hiện:* 2026-09-15  
-*Tác giả:* [Tên của bạn]
+*Tác giả:* [Vương Hưng Lợi]
